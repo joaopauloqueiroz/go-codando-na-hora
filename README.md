@@ -17,4 +17,5 @@
 
 ## Colaborators
 [João Paulo Queiroz](https://github.com/joaopauloqueiroz/)
+<br />
 [Lucas Borges](https://github.com/luborges/)
